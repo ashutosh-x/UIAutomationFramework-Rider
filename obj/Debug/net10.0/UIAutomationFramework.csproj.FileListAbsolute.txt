@@ -1,0 +1,12 @@
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/bin/Debug/net10.0/UIAutomationFramework.deps.json
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/bin/Debug/net10.0/UIAutomationFramework.dll
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/bin/Debug/net10.0/UIAutomationFramework.pdb
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/obj/Debug/net10.0/UIAutomationFramework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/obj/Debug/net10.0/UIAutomationFramework.AssemblyInfoInputs.cache
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/obj/Debug/net10.0/UIAutomationFramework.AssemblyInfo.cs
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/obj/Debug/net10.0/UIAutomationFramework.csproj.CoreCompileInputs.cache
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/obj/Debug/net10.0/UIAutomationFramework.dll
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/obj/Debug/net10.0/refint/UIAutomationFramework.dll
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/obj/Debug/net10.0/UIAutomationFramework.pdb
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/obj/Debug/net10.0/ref/UIAutomationFramework.dll
+/Users/ashutoshsrivastava/RiderProjects/UIAutomationFramework/obj/Debug/net10.0/UIAutomationFramework.csproj.AssemblyReference.cache

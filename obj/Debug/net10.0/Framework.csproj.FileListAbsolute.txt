@@ -1,0 +1,12 @@
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/bin/Debug/net10.0/Framework.deps.json
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/bin/Debug/net10.0/Framework.dll
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/bin/Debug/net10.0/Framework.pdb
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/obj/Debug/net10.0/Framework.csproj.AssemblyReference.cache
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/obj/Debug/net10.0/Framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/obj/Debug/net10.0/Framework.AssemblyInfoInputs.cache
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/obj/Debug/net10.0/Framework.AssemblyInfo.cs
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/obj/Debug/net10.0/Framework.csproj.CoreCompileInputs.cache
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/obj/Debug/net10.0/Framework.dll
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/obj/Debug/net10.0/refint/Framework.dll
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/obj/Debug/net10.0/Framework.pdb
+/Users/ashutoshsrivastava/Downloads/UIAutomationFramework-main 2/obj/Debug/net10.0/ref/Framework.dll
